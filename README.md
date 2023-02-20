@@ -16,8 +16,6 @@ Technology and tools used:
 
 4) Sklearn for model building
 
-5) Jupyter notebook, visual studio code and pycharm as IDE
+5) Jupyter notebook, visual studio code
 
-6) Python flask for http server
 
-7) HTML/CSS/Javascript for UI
